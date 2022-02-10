@@ -9,3 +9,18 @@ comment 2
 ## smaller
 ### smaller
 #### smaller
+
+# Markdown Commands
+more #s the lower the heading level
+---
+page break = ---
+---
+```python
+print("Hello World") # done with ``` ```
+```
+---
+## hyperlinks with square brackets
+---
+[bootcampspot](https://bootcampspot.com/)
+---
+use exclaimation mark for makdown images
